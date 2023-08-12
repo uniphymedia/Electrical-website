@@ -1,0 +1,100 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 12 Aug 2023 10:31:22 at https://www.abacusplumbing.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.abacusplumbing.net/ -O1 "C:\Users\E000001\GitHub\Electrical-website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:32:13	Warning: 	Link https://www.abacusplumbing.net/landing-pages/123anydrain/ not scanned (follow robots meta tag)
+10:32:15	Warning: 	Link https://www.abacusplumbing.net/landing-pages/500-off-water-filtration/ not scanned (follow robots meta tag)
+10:32:15	Warning: 	Link https://www.abacusplumbing.net/landing-pages/hvac-buy-back-save-up-to-5000/ not scanned (follow robots meta tag)
+10:32:15	Warning: 	Link https://www.abacusplumbing.net/landing-pages/free-whole-home-surge-protector-with-generator-purchase/ not scanned (follow robots meta tag)
+10:32:15	Warning: 	Link https://www.abacusplumbing.net/landing-pages/tank-or-tankless-water-heaters/ not scanned (follow robots meta tag)
+10:32:16	Warning: 	Link https://www.abacusplumbing.net/landing-pages/air-purification/ not scanned (follow robots meta tag)
+10:32:18	Warning: 	Moved Permanently for www.abacusplumbing.net/robots.txt
+10:32:18	Warning: 	Redirected link is identical because of 'URL Hack' option: www.abacusplumbing.net/robots.txt and https://www.abacusplumbing.net/robots.txt
+10:32:18	Warning: 	Warning moved treated for www.abacusplumbing.net/robots.txt (real one is https://www.abacusplumbing.net/robots.txt)
+10:32:18	Warning: 	Moved Permanently for www.abacusplumbing.net/Unable%20to%20load%20target-vec.js/
+10:32:18	Warning: 	Redirected link is identical because of 'URL Hack' option: www.abacusplumbing.net/Unable%20to%20load%20target-vec.js/ and https://www.abacusplumbing.net/Unable%20to%20load%20target-vec.js/
+10:32:18	Warning: 	File has moved from www.abacusplumbing.net/Unable%20to%20load%20target-vec.js/ to https://www.abacusplumbing.net/Unable%20to%20load%20target-vec.js/
+10:32:19	Warning: 	Moved Permanently for www.abacusplumbing.net/Loading%20target-vec.js/
+10:32:19	Warning: 	Redirected link is identical because of 'URL Hack' option: www.abacusplumbing.net/Loading%20target-vec.js/ and https://www.abacusplumbing.net/Loading%20target-vec.js/
+10:32:19	Warning: 	File has moved from www.abacusplumbing.net/Loading%20target-vec.js/ to https://www.abacusplumbing.net/Loading%20target-vec.js/
+10:32:19	Warning: 	Moved Permanently for www.abacusplumbing.net/helpers/getObjectProperty.js/
+10:32:19	Warning: 	Redirected link is identical because of 'URL Hack' option: www.abacusplumbing.net/helpers/getObjectProperty.js/ and https://www.abacusplumbing.net/helpers/getObjectProperty.js/
+10:32:19	Warning: 	File has moved from www.abacusplumbing.net/helpers/getObjectProperty.js/ to https://www.abacusplumbing.net/helpers/getObjectProperty.js/
+10:32:19	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site/css/fonts/berkeys-webfonts/MADETOMMYMedium.woff (from https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site.lc-1691723625233-lc.min.css)
+10:32:20	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site/css/fonts/berkeys-webfonts/MADETOMMYBold.woff (from https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site.lc-1691723625233-lc.min.css)
+10:32:20	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site/css/fonts/berkeys-webfonts/MADETOMMYBlack.woff (from https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site.lc-1691723625233-lc.min.css)
+10:32:20	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site/css/fonts/myriad-pro-cufonfonts/MyriadPro-Cond.woff (from https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site.lc-1691723625233-lc.min.css)
+10:32:20	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site/css/fonts/myriad-pro-cufonfonts/MyriadPro-CondIt.woff (from https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site.lc-1691723625233-lc.min.css)
+10:32:21	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site/css/fonts/myriad-pro-cufonfonts/MyriadPro-BoldCond.woff (from https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site.lc-1691723625233-lc.min.css)
+10:32:21	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site/css/fonts/myriad-pro-cufonfonts/MyriadPro-BoldCondIt.woff (from https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site.lc-1691723625233-lc.min.css)
+10:32:21	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site/css/fonts/myriad-pro-cufonfonts/MyriadPro-BlackCond.woff (from https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site.lc-1691723625233-lc.min.css)
+10:32:22	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site/css/fonts/myriad-pro-cufonfonts/MyriadPro-BlackCondIt.woff (from https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site.lc-1691723625233-lc.min.css)
+10:32:22	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site/css/fonts/myriad-pro-cufonfonts/MyriadPro-LightSemiCn.woff (from https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site.lc-1691723625233-lc.min.css)
+10:32:22	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site/css/fonts/myriad-pro-cufonfonts/MyriadPro-LightSemiCnIt.woff (from https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site.lc-1691723625233-lc.min.css)
+10:32:22	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site/css/fonts/myriad-pro-cufonfonts/MyriadPro-BlackSemiCn.woff (from https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site.lc-1691723625233-lc.min.css)
+10:32:23	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site/css/fonts/myriad-pro-cufonfonts/MyriadPro-BlackSemiCnIt.woff (from https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site.lc-1691723625233-lc.min.css)
+10:32:23	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site/css/fonts/myriad-pro-cufonfonts/GoudyOldStyBTBol.woff (from https://www.abacusplumbing.net/etc.clientlibs/wrenchgroup/clientlibs/clientlib-site.lc-1691723625233-lc.min.css)
+10:32:23	Warning: 	Moved Permanently for www.abacusplumbing.net/%22/content/abacus/us/en/about-us.html/%22/
+10:32:23	Warning: 	Redirected link is identical because of 'URL Hack' option: www.abacusplumbing.net/%22/content/abacus/us/en/about-us.html/%22/ and https://www.abacusplumbing.net/%22/content/abacus/us/en/about-us.html/%22/
+10:32:23	Warning: 	File has moved from www.abacusplumbing.net/%22/content/abacus/us/en/about-us.html/%22/ to https://www.abacusplumbing.net/%22/content/abacus/us/en/about-us.html/%22/
+10:32:25	Warning: 	Moved Permanently for www.abacusplumbing.net/%22/content/abacus/us/en/plumbing.html/%22/
+10:32:25	Warning: 	Redirected link is identical because of 'URL Hack' option: www.abacusplumbing.net/%22/content/abacus/us/en/plumbing.html/%22/ and https://www.abacusplumbing.net/%22/content/abacus/us/en/plumbing.html/%22/
+10:32:25	Warning: 	File has moved from www.abacusplumbing.net/%22/content/abacus/us/en/plumbing.html/%22/ to https://www.abacusplumbing.net/%22/content/abacus/us/en/plumbing.html/%22/
+10:32:25	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/content/dam/abacus/website/banners/banner_abacus-wh-ltw-tall.png (from https://www.abacusplumbing.net/plumbing/water-heaters/)
+10:32:26	Warning: 	Moved Permanently for www.abacusplumbing.net/%22/content/abacus/us/en/abacus-lifetime-warranty.html/%22/
+10:32:26	Warning: 	Redirected link is identical because of 'URL Hack' option: www.abacusplumbing.net/%22/content/abacus/us/en/abacus-lifetime-warranty.html/%22/ and https://www.abacusplumbing.net/%22/content/abacus/us/en/abacus-lifetime-warranty.html/%22/
+10:32:26	Warning: 	File has moved from www.abacusplumbing.net/%22/content/abacus/us/en/abacus-lifetime-warranty.html/%22/ to https://www.abacusplumbing.net/%22/content/abacus/us/en/abacus-lifetime-warranty.html/%22/
+10:32:27	Warning: 	Link https://www.abacusplumbing.net/landing-pages/50-off-roof-repair/ not scanned (follow robots meta tag)
+10:32:27	Warning: 	Moved Permanently for www.abacusplumbing.net/%22/content/abacus/us/en/best-houston-tx-attic-insulation-roof-repair.html/%22/
+10:32:27	Warning: 	Redirected link is identical because of 'URL Hack' option: www.abacusplumbing.net/%22/content/abacus/us/en/best-houston-tx-attic-insulation-roof-repair.html/%22/ and https://www.abacusplumbing.net/%22/content/abacus/us/en/best-houston-tx-attic-insulation-roof-repair.html/%22/
+10:32:27	Warning: 	File has moved from www.abacusplumbing.net/%22/content/abacus/us/en/best-houston-tx-attic-insulation-roof-repair.html/%22/ to https://www.abacusplumbing.net/%22/content/abacus/us/en/best-houston-tx-attic-insulation-roof-repair.html/%22/
+10:32:28	Warning: 	Moved Permanently for www.abacusplumbing.net/best-houston-tx-attic-insulation-roof-repair/roof-repair/%22/content/dam/abacus/website/content-images/roof-repair/roman-g-roof-reair-specialist.png%22/
+10:32:28	Warning: 	Redirected link is identical because of 'URL Hack' option: www.abacusplumbing.net/best-houston-tx-attic-insulation-roof-repair/roof-repair/%22/content/dam/abacus/website/content-images/roof-repair/roman-g-roof-reair-specialist.png%22/ and https://www.abacusplumbing.net/best-houston-tx-attic-insulation-roof-repair/roof-repair/%22/content/dam/abacus/website/content-images/roof-repair/roman-g-roof-reair-specialist.png%22/
+10:32:28	Warning: 	File has moved from www.abacusplumbing.net/best-houston-tx-attic-insulation-roof-repair/roof-repair/%22/content/dam/abacus/website/content-images/roof-repair/roman-g-roof-reair-specialist.png%22/ to https://www.abacusplumbing.net/best-houston-tx-attic-insulation-roof-repair/roof-repair/%22/content/dam/abacus/website/content-images/roof-repair/roman-g-roof-reair-specialist.png%22/
+10:32:28	Warning: 	Link https://www.abacusplumbing.net/landing-pages/79-ac-tune-up-or-99-with-bam/ not scanned (follow robots meta tag)
+10:32:29	Warning: 	Moved Permanently for www.abacusplumbing.net/%22/content/abacus/us/en/air-conditioning.html/%22/
+10:32:29	Warning: 	Redirected link is identical because of 'URL Hack' option: www.abacusplumbing.net/%22/content/abacus/us/en/air-conditioning.html/%22/ and https://www.abacusplumbing.net/%22/content/abacus/us/en/air-conditioning.html/%22/
+10:32:29	Warning: 	File has moved from www.abacusplumbing.net/%22/content/abacus/us/en/air-conditioning.html/%22/ to https://www.abacusplumbing.net/%22/content/abacus/us/en/air-conditioning.html/%22/
+10:32:29	Warning: 	Moved Permanently for www.abacusplumbing.net/%22/content/abacus/us/en/heating.html/%22/
+10:32:29	Warning: 	Redirected link is identical because of 'URL Hack' option: www.abacusplumbing.net/%22/content/abacus/us/en/heating.html/%22/ and https://www.abacusplumbing.net/%22/content/abacus/us/en/heating.html/%22/
+10:32:29	Warning: 	File has moved from www.abacusplumbing.net/%22/content/abacus/us/en/heating.html/%22/ to https://www.abacusplumbing.net/%22/content/abacus/us/en/heating.html/%22/
+10:32:30	Warning: 	Moved Permanently for www.abacusplumbing.net/%22/content/abacus/us/en/hvac-products.html/%22/
+10:32:30	Warning: 	Redirected link is identical because of 'URL Hack' option: www.abacusplumbing.net/%22/content/abacus/us/en/hvac-products.html/%22/ and https://www.abacusplumbing.net/%22/content/abacus/us/en/hvac-products.html/%22/
+10:32:30	Warning: 	File has moved from www.abacusplumbing.net/%22/content/abacus/us/en/hvac-products.html/%22/ to https://www.abacusplumbing.net/%22/content/abacus/us/en/hvac-products.html/%22/
+10:32:30	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/content/dam/abacus/website/publications/rgf-reme-halo-sars-cov-2-results-ab22wi001wg.pdf (from https://www.abacusplumbing.net/hvac-products/reme-halo-air-purification/)
+10:32:30	Warning: 	Moved Permanently for www.abacusplumbing.net/%22/content/abacus/us/en/indoor-air-quality.html/%22/
+10:32:30	Warning: 	Redirected link is identical because of 'URL Hack' option: www.abacusplumbing.net/%22/content/abacus/us/en/indoor-air-quality.html/%22/ and https://www.abacusplumbing.net/%22/content/abacus/us/en/indoor-air-quality.html/%22/
+10:32:30	Warning: 	File has moved from www.abacusplumbing.net/%22/content/abacus/us/en/indoor-air-quality.html/%22/ to https://www.abacusplumbing.net/%22/content/abacus/us/en/indoor-air-quality.html/%22/
+10:32:30	Warning: 	Moved Permanently for www.abacusplumbing.net/%22/content/abacus/us/en/electrician.html/%22/
+10:32:30	Warning: 	Redirected link is identical because of 'URL Hack' option: www.abacusplumbing.net/%22/content/abacus/us/en/electrician.html/%22/ and https://www.abacusplumbing.net/%22/content/abacus/us/en/electrician.html/%22/
+10:32:30	Warning: 	File has moved from www.abacusplumbing.net/%22/content/abacus/us/en/electrician.html/%22/ to https://www.abacusplumbing.net/%22/content/abacus/us/en/electrician.html/%22/
+10:32:31	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/blog/slab-leaks-can-cost/ (from https://www.abacusplumbing.net/drain-sewer/)
+10:32:31	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/blog/biosmart-for-unclogging-drains/ (from https://www.abacusplumbing.net/drain-sewer/)
+10:32:31	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/blog/drain-cleaning-sewer-cleaning/ (from https://www.abacusplumbing.net/drain-sewer/)
+10:32:31	Warning: 	Moved Permanently for www.abacusplumbing.net/%22/content/abacus/us/en/drain-sewer.html/%22/
+10:32:31	Warning: 	Redirected link is identical because of 'URL Hack' option: www.abacusplumbing.net/%22/content/abacus/us/en/drain-sewer.html/%22/ and https://www.abacusplumbing.net/%22/content/abacus/us/en/drain-sewer.html/%22/
+10:32:31	Warning: 	File has moved from www.abacusplumbing.net/%22/content/abacus/us/en/drain-sewer.html/%22/ to https://www.abacusplumbing.net/%22/content/abacus/us/en/drain-sewer.html/%22/
+10:32:31	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/content/dam/abacus/website/logos/logo_rootx1.jpg (from https://www.abacusplumbing.net/drain-sewer/sewer-line-service/)
+10:32:31	Warning: 	Moved Permanently for www.abacusplumbing.net/%22/content/abacus/us/en/water-quality.html/%22/
+10:32:31	Warning: 	Redirected link is identical because of 'URL Hack' option: www.abacusplumbing.net/%22/content/abacus/us/en/water-quality.html/%22/ and https://www.abacusplumbing.net/%22/content/abacus/us/en/water-quality.html/%22/
+10:32:31	Warning: 	File has moved from www.abacusplumbing.net/%22/content/abacus/us/en/water-quality.html/%22/ to https://www.abacusplumbing.net/%22/content/abacus/us/en/water-quality.html/%22/
+10:32:32	Warning: 	Moved Permanently for https://www.abacusplumbing.net/tuyo/
+10:32:32	Warning: 	File has moved from https://www.abacusplumbing.net/tuyo/ to http://www.abacusplumbing.net/
+10:32:33	Warning: 	Moved Permanently for https://www.abacusplumbing.net/about-us/reviews/yelp-reviews/
+10:32:33	Warning: 	File has moved from https://www.abacusplumbing.net/about-us/reviews/yelp-reviews/ to http://www.abacusplumbing.net/about-us/reviews/
+10:32:42	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/content/dam/abacus/website/heroes/lphero_ltw.jpg (from https://www.abacusplumbing.net/abacus-lifetime-warranty/)
+10:32:42	Warning: 	Moved Permanently for https://www.abacusplumbing.net/energy-saving/
+10:32:42	Warning: 	File has moved from https://www.abacusplumbing.net/energy-saving/ to http://www.abacusplumbing.net/
+10:32:42	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/content/dam/abacus/website/content-images/lennox-ultimate-comfort-system.jpg (from https://www.abacusplumbing.net/hvac-products/lennox-air-conditioners/)
+10:32:43	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/electrician/backup-generators/ (from https://www.abacusplumbing.net/electrician/led-lighting-installation/)
+10:32:43	Error: 	"Not Found" (404) at link https://www.abacusplumbing.net/content/dam/abacus/website/images/lego-ab22wi001wg.jpeg (from https://www.abacusplumbing.net/alans-blog/its-all-childs-play-in-houston/)
+10:32:43	Warning: 	Moved Permanently for www.abacusplumbing.net/%22/content/abacus/us/en/plumbing-products.html/%22/
+10:32:43	Warning: 	Redirected link is identical because of 'URL Hack' option: www.abacusplumbing.net/%22/content/abacus/us/en/plumbing-products.html/%22/ and https://www.abacusplumbing.net/%22/content/abacus/us/en/plumbing-products.html/%22/
+10:32:43	Warning: 	File has moved from www.abacusplumbing.net/%22/content/abacus/us/en/plumbing-products.html/%22/ to https://www.abacusplumbing.net/%22/content/abacus/us/en/plumbing-products.html/%22/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 22 seconds : 285 links scanned, 240 files written (27960351 bytes overall) [4995947 bytes received at 60926 bytes/sec], 28396071 bytes transferred using HTTP compression in 244 files, ratio 16%, 7.5 requests per connection
+(24 errors, 65 warnings, 0 messages)
